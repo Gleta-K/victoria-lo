@@ -1,21 +1,26 @@
-<img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/Gleta-K/Gleta-K/blob/master/myGif.gif" alt="Here is a little bit about me!">
 
 
 ### 👋 Hello world!
 
-My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitHub Star](https://stars.github.com/profiles/victoria-lo/) and [WomenWhoCode Singapore](https://www.womenwhocode.com/network/singapore/) leader. Besides loving my job and my side hustles, I love to read books, play video games and collect quotes. As a technical content writer, I write for the largest publishers on [Medium](https://victoria2666.medium.com/) such as The Startup, Level Up Coding, Better Programming and JavaScript in Plain English while publishing on my personal blog, [Articles By Victoria](https://lo-victoria.com)!
+I am Gleta Kijogi, a storyteller, YouTuber, and aspiring backend web developer currently studying Mathematics and Computer Science. I am also enrolled in a bootcamp where I’m developing both my technical and soft skills, gaining hands-on experience in backend development.
+What makes me unique is my ability to merge two worlds that often seem far apart; creativity and technology. Whether through engaging YouTube content or coding scalable systems, I bring together imagination, logic, and problem solving to create meaningful work.
+My passions lie in storytelling, culture, and technology. Through storytelling, I connect with people, spark dialogue, and explore human experiences in ways that are both entertaining and thought provoking. Through technology, I channel that same creativity into building impactful digital platforms that support expression, preserve culture, and inspire communities.
+Backend web development enables me to live out this passion by giving me the tools to design reliable, innovative systems that power creative platforms. In this way, I can bridge my love for art and science, using both to inspire, educate, and create change.
+
 
 ### 🧐 Some Things About Me
-- 💼 Solutions Engineer at PayPal
-- ✍️Technical Blogger
-- 👩‍💻 WomenWhoCode Singapore leader
-- 🌐 Exists somewhere on [Twitter](https://twitter.com/lo_victoria2666), [Hashnode](https://lo-victoria.com/), [Medium](https://medium.com/@victoria2666), [Showwcase](https://www.showwcase.com/victoria-lo).
+- 💼 Backend Web Developer
+- ✍️Student
+- 👩‍💻 Youtuber
+- 🌐 Exists somewhere on [linkedIn](https://www.linkedin.com/in/gleta-kijogi/),  [Youtube](https://www.youtube.com/@CogniLeap), [X](https://x.com/Gleta_K), [Instagram](https://www.instagram.com/gleta_k/)
 - 😄 Pronouns: She/her
-- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
-- ⚡ Fun facts: Speaks English, Mandarin, Indonesian, Japanese and Korean. INTJ. Drinks tea everyday.
-- 🏠 Hogwarts House: Ravenclaw
-- 💎 Treasures: Nintendo Switch, books, [my nerd stuff](https://lo-victoria.com/nerd-stuff)
-- 💬 Favourite Quotes: 
+- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 
+- ⚡ Fun facts: Speaks English and Kiswahili.
+- 💎 Treasures: Laptop, Phone
+- 💬 Favourite Quotes:
+
+> "Life is like an ECG monitor. At times we’re on top and at times we’re at the bottom; when everything’s a straight line then we’re dead." - Ms Gitahi
 
 > "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
 
@@ -23,21 +28,4 @@ My name is Victoria. I'm a solutions engineer, technical blogger, speaker, [GitH
 
 > "You don't have to be great to start, but you have to start to be great"  - Zig Ziglar
 
-### 👼 Support me
-Thanks for checking out my README. If you have read some of my articles and wish to support me, please consider [sponsoring](https://lo-victoria.com/sponsor) or [buying me a cup of tea](https://www.buymeacoffee.com/victoria2666). I like jasmine by the way~ 🍵
 
-### 🧰 Toolbox
-![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)![Taiwind](https://img.shields.io/badge/-Tailwind-38B2AC?&style=for-the-badge&logo=tailwind%20css&logoColor=white)![MaterialUI](https://img.shields.io/badge/-Material%20UI-0081CB?&style=for-the-badge&logo=material-ui&logoColor=white)![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white)![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)![Node.js](https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933)![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)![Firebase](https://img.shields.io/badge/-Firebase-4c8bf5?&style=for-the-badge&&logo=firebase&logoColor=ffca28)![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)![Unity](https://img.shields.io/badge/-Unity-000000?&style=for-the-badge&logo=unity&logoColor=white)![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?&style=for-the-badge&logo=adobe%20photoshop&logoColor=31a8ff)
-
-------
-
-### 📝 Check out my latest articles!
-<!-- BLOG:START -->
-- [5 Benefits of Joining an Offline Tech Community](https://lo-victoria.com/5-benefits-of-joining-an-offline-tech-community)
-- [An Introduction to Neo4J and Graph Databases](https://lo-victoria.com/an-introduction-to-neo4j-and-graph-databases)
-- [How to Build a Next.Js E-Commerce Website with Medusa](https://lo-victoria.com/how-to-build-a-nextjs-e-commerce-website-with-medusa)
-- [How to Increase Your Productivity with GitHub Codespaces](https://lo-victoria.com/how-to-increase-your-productivity-with-github-codespaces)
-- [Building a 2nd Brain by Tiago Forte: How to Implement a Digital System](https://lo-victoria.com/building-a-2nd-brain-by-tiago-forte-review)
-<!-- BLOG:END -->
-
------
